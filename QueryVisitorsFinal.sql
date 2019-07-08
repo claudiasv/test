@@ -116,4 +116,3 @@ on H.id5 = K.id6;
 
 
 GRAFICA:
-jjj
