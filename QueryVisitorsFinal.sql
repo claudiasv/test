@@ -116,6 +116,3 @@ on H.id5 = K.id6;
 
 
 GRAFICA:
-
-set @n=0;
-select @n:=@n+1 
